@@ -1,13 +1,13 @@
 # Symptoms-based-dissease-detection
 
-# Algorithms used
-  1.Naive Bayes classifier
-  2.K-means clustering algorithm
-  3.Decision Tree algorithm.
+# Algorithms used.
+  -Naive Bayes classifier.
+  -K-means clustering algorithm.
+  -Decision Tree algorithm.
   
 # Process to follow:
-  1.import all the packages
-  2.import the datasets 
+  1.import all the packages.
+  2.import the datasets. 
      a)training.csv
      b)testing.csv
   3. Execute the code   
