@@ -1,4 +1,4 @@
-# Symptoms-based-dissease-detection
+# Symptoms-based-disease-detection
   The Symptoms-Based Disease Detection system is a project that utilizes machine learning techniques to predict a patient's potential disease based on their reported symptoms. The system uses a combination of Decision Trees, K-Means Clustering Algorithm, and Bernoulli Naive Bayes Classifier to make predictions.
 
 The project is designed to help healthcare professionals in diagnosing diseases at an early stage, thereby improving patient outcomes and reducing healthcare costs. The system takes in symptoms reported by the patient and uses the Decision Tree algorithm to classify the patient into a particular disease category. The K-Means Clustering algorithm is then applied to identify patterns in the symptoms and cluster patients into groups that have similar symptoms. Finally, the Bernoulli Naive Bayes Classifier is used to calculate the probability of a patient having a specific disease.
