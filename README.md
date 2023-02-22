@@ -22,4 +22,5 @@ The Symptoms-Based Disease Detection system is a valuable tool in healthcare, en
 # output screens 
 
 <img width="880" alt="output screens" src="https://user-images.githubusercontent.com/96756682/218068399-797ba55f-e728-4396-97af-1b1ca4904dca.png">
-That's it you are pretty much done!! your system is ready to detect the diseases based on symptoms.
+
+### That's it you are pretty much done!! your system is ready to detect the diseases based on symptoms.
